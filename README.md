@@ -1,0 +1,1 @@
+# faqs-schema-wp
